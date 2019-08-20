@@ -1,0 +1,2 @@
+# Wisdom
+Just another repository
